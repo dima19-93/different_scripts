@@ -1,3 +1,4 @@
 different_scripts/terraform_gcloud/*.tfstate
 different_scripts/terraform_gcloud/*.tfvars
 different_scripts/terraform_gcloud/*.tfstate.backup
+**/modules/
