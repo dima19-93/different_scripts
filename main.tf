@@ -81,4 +81,4 @@ resource "azurerm_linux_virtual_machine" "example" {
     public_key = file("~/.ssh/id_rsa.pub")
   }
 
-}
+} 
